@@ -1,0 +1,25 @@
+#id1:hover{
+    width: 250px;
+    height: 250px;
+    border: 5px solid rgb(75, 103, 244);
+}
+    
+
+#id2:hover{
+    width: 250px;
+    height: 250px;
+    border: 5px solid rgb(223, 53, 163);
+}
+
+
+#id3:hover{
+    width: 250px;
+    height: 250px;
+    border: 5px solid rgb(43, 123, 228);
+}
+
+
+img{
+    border: 5px solid red;
+    margin:50px;
+}
